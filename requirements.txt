@@ -1,2 +1,5 @@
 streamlit
-scikit-learn  # or whichever version you trained your model on
+scikit-learn
+pandas
+numpy
+xgboost
